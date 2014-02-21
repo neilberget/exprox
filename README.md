@@ -1,3 +1,3 @@
 # Exprox
 
-** TODO: Add description **
+Just a project to learn a little Elixir.
